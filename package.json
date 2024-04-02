@@ -1,0 +1,21 @@
+{
+  "name": "313_pc_password",
+  "version": "1.0.0",
+  "description": "Pc  password",
+  "main": "index.js",
+  "type": "module",
+  "bin": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "shigri313",
+  "license": "MIT",
+  "dependencies": {
+    "313_pc_password": "^1.0.0",
+    "313-simple-calculator": "^1.0.2",
+    "inquirer": "^9.2.17"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7"
+  }
+}
